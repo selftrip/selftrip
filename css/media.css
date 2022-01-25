@@ -1,0 +1,396 @@
+@media (min-width: 320px){
+    .nav{
+        text-align: left;
+    }
+    .container{
+        max-width: 100% !important;
+    }
+    .skills{
+        width: 278px;
+        margin: 0 auto;
+        margin-top: 45px;
+        text-align: center;
+    }
+    #zbrush{
+        margin-left: 10px;
+	}
+    .contacts{
+        text-align: center;
+    }
+    .context{
+        padding: 10px;
+	}
+    .context div:first-child{
+        padding-bottom: 5px;
+	}
+    .portfolio iframe{
+        width: 290px;
+        height: 165px;
+    }
+    .im{
+        min-height: 880px;
+        text-align: left;
+    }
+    .l1 {
+        text-align: center !important;
+    }
+    .l1 img {
+        
+        padding-left: 15px;
+    }
+    .m1{
+        float: left;
+    }
+    .c-links img{
+        margin: 0 1px;
+    }
+    .portfolio .full{
+        color: #fbfbfb;
+        opacity: .25;
+        display: block;
+        /* margin: -33px 25px 0 0;*/
+        text-align: right;
+        vertical-align: middle;
+        position: absolute;
+        top: 52px;
+        right: 9px;
+    }
+    .full div{
+        width: 80px;
+        height: 30px;
+        background: #66626f;
+        text-align: center;
+        line-height: 30px;
+    }
+    .exp-l,.exp-r{
+        min-width: 100%;
+        text-align: left;
+    }
+    .exp-r{
+        padding-top: 20px;
+        padding-bottom: 20px;
+    }
+}
+@media (min-width: 454px){
+    .nav{
+        text-align: center;
+    }
+    .container{
+        max-width: 100% !important;
+    }
+    .portfolio iframe{
+        width: 425px;
+        height: 275px;
+    }
+    .im{
+        min-height: 825px;
+    }
+
+    .m1{
+        
+        padding: 0 40px !important
+    }
+
+    .skills{
+        width: 88%;
+        margin: 0 auto;
+        margin-top: 45px;
+    }
+    .skills img{
+        width: 47px;
+        height: 47px;
+        margin: 2px 10px;
+    }
+    .c-links{
+        width: 50% !important;
+        text-align: right;
+        padding-right: 5px !important;
+    }
+    .context{
+        font-size: 1em;
+        width: 50% !important;
+        text-align: left;
+        margin-top: 5px;
+        padding: 0px;
+        padding-left: 5px !important;
+    }
+    .context div:first-child{
+        padding-bottom: 0px;
+	}
+    .exp-l{
+        text-align: right;
+        min-width: 50%;
+    }
+    .exp-r{
+        text-align: left;
+        min-width: 50%;
+        padding-top: 0;
+        padding-bottom: 0;
+    }
+
+}
+@media (min-width: 576px){
+
+    .container{
+        max-width: 100% !important;
+    }
+    .portfolio iframe{
+        width: 542px;
+        height: 275px;
+    }
+    .skills{
+        width: 100%;
+        margin: 45px 0 40px 0;
+    }
+    .skills img{
+        margin: 0;
+    }
+    .im{
+        min-height: 555px;
+    }
+    .l1 {
+        width: 50% !important;
+       
+    }
+    .l1 img{
+        float: right;
+        
+    }
+    .m1{
+        width: 50% !important;
+        text-align: left;
+    }
+    .c-links{
+       width: 50% !important;
+       text-align: right;
+       padding-right: 5px !important;
+    }   
+    .context{
+        padding-left: 5px !important;
+	}
+    .portfolio .full{
+        top: 52px;
+        right: 30px;
+    }
+
+    a.mychennel{
+        position: absolute;
+        top: -40px;
+        right: -97px;
+    }
+}
+@media only screen and (min-width: 576px) and (max-width: 645px){
+    .im{
+        min-height: 575px;
+	}
+}
+@media (min-width: 768px){
+    
+    .r1{
+        margin-left: 0;
+    }
+    .im{
+        min-height: 275px;
+        text-align: left;
+    }
+    .l1{
+        padding-right: 0 !important;
+	}
+    .l1 img{
+        width: 255px;
+        margin-top: 9px;
+    }
+    .container h2, .container h4{
+        font-size: 1.6em;
+    }
+    .skills{
+        text-align: left;
+        width: 90%;
+        margin-bottom: 20px;
+    }
+    .skills img{
+        width: 45px;
+        height: 45px;
+        margin-left: 5px;
+    }
+    .c-links{
+        width: 45% !important;
+        text-align: left;
+        padding-right: 0px !important;
+	}
+    .c-links img {
+        width: 30px;
+        margin: 0 1px;
+    }
+    .contacts h4{
+        text-align: left;
+    }
+    .container{
+        max-width: 100% !important;
+    }
+    .portfolio iframe{
+        width: 225px;
+        height: 175px;
+    }
+    .context{
+        font-size: .8em;
+        display: block;
+        width: 100% !important;
+        padding-left: 0px !important;
+    }
+    .context img{
+        margin-left: -5px !important;
+	}
+    .container h4{
+        font-size: 1.2em;
+    }
+    .m1 p{
+        font-size: .9em;
+    }
+    .location {
+        margin: -5px 0 20px 10px;
+    }
+    .full div{
+        width: 55px;
+        height: 20px;
+        line-height: 20px;
+	}
+    .portfolio .full{
+        top: 52px;
+        right: 9px;
+    }
+    a.mychennel{
+        padding-left: 50px;
+        position: static;
+    }
+}
+@media only screen and (min-width: 768px) and (max-width: 1200px){
+    .im{
+        min-height: 285px;
+	}
+    .m1, .r1{
+        padding-bottom: 12px !important;
+	}
+    .context div{
+        max-width: 222px;
+	}
+    .context img{
+        margin-left: -5px;
+	}
+}
+@media (min-width: 992px){
+    .im{
+        min-height: 285px;
+    }
+    .location {
+        margin: -5px 0 20px 10px;
+    }
+    
+    .context{
+        font-size: 1em;
+        display: inline;
+        width: 100%;
+    }
+    .c-links{
+        width: 100%;
+    }
+    .container{
+        max-width: 100% !important;
+    }
+    .l1{
+        padding-right: 15px !important;
+	}
+    .l1 img{
+        width: 255px;
+        margin-top: 9px;
+    }
+    .container h2, .container h4{
+        font-size: 1.6em;
+    }
+    .skills{
+        width: 62%;
+        margin-bottom: 0;
+	}
+    .skills img{
+        width: 45px;
+        height: 45px;
+        margin-left: 0px;
+    }
+    .c-links img {
+        width: 40px;
+    }
+    .portfolio iframe{
+        width: 300px;
+        height: 240px;
+    }
+    .portfolio .full{
+        top: 52px;
+        right: 30px;
+    }
+    a.mychennel{
+        padding-left: 40px;
+    }
+}
+@media (min-width: 1200px){
+    
+    .container{
+        max-width: 100% !important;
+    }
+    .portfolio iframe{
+        width: 370px;
+    }
+    .l1  img{
+        width: 270px;
+        margin-top: 2px;
+    }
+    .skills{
+        width: 100%;
+	}
+    .skills img{
+        margin-left: 0px;
+	}
+    .contacts{
+        margin-top: 40px;
+	}
+    .portfolio a{
+    
+    }
+    a.mychennel{
+        padding-left: 20px;
+    }
+}
+@media (min-width: 1305px){
+    .container h2, .container h4{
+        font-size: 2em;
+    }
+    .skills img{
+        width: 50px;
+        height: 50px;
+    }
+    .c-links img {
+        width: 50px;
+    }
+    .l1 img{
+        width: 275px;
+        margin: 0 auto;
+    }
+    .container{
+        max-width: 100% !important;
+    }
+    .contacts{
+        margin-top: 13px;
+	}
+    .portfolio iframe{
+        width: 420px;
+        height: 315px;
+    }
+    .portfolio a{
+    
+    }
+}
+@media only screen and (min-width: 1305px) and (max-width: 1387px){
+    .skills img{
+        width: 44px;
+        height: 44px;
+	}
+}
